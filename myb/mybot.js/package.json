@@ -1,9 +1,0 @@
-{
-  "name": "node-mybot.js",
-  "version": "0.0.0",
-  "description": "node mybot.js",
-  "main": "app.js",
-  "author": {
-    "name": ""
-  }
-}
